@@ -1,9 +1,14 @@
 #app{
   height:90vh;
 }
-.night{
-  background-color: black;
-  color:white;
+.day {
+  background-color: #fff; /* Light background color */
+  color: #000; /* Dark text color */
+}
+
+.night {
+  background-color: #333; /* Dark background color */
+  color: #fff; /* Light text color */
 }
 
 #swap{
